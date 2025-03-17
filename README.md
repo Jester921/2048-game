@@ -1,5 +1,7 @@
-🎮 2048 Game
+🎮 2048 Game - [DEMO LINK](https://jester921.github.io/2048-game/)
+
 📝 About the Project
+
 2048 Game is a web-based implementation of the popular sliding block puzzle game, 2048. This project emphasizes modularity and maintainability, leveraging modern web development tools and best practices.
 
 ✨ Features
